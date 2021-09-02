@@ -1,0 +1,1 @@
+text from sample1 (should be in sample 2)
